@@ -1,0 +1,13 @@
+[caps]
+appium-version = "1.1.0"
+platformName = "Android"
+platformVersion = "4.3"
+deviceName = "Android"
+app = "../ping.apk"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
+debug = true
+wait = 30
+export_session = true
